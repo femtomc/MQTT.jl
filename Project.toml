@@ -1,0 +1,8 @@
+name = "MQTT"
+uuid = "7b5fea6c-6225-4b7d-8f4a-8782848a6463"
+authors = ["McCoy R. Becker <mccoybecker@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
+Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
